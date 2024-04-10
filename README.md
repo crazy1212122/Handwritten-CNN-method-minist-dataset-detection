@@ -24,7 +24,7 @@ tensorflow                2.1.0
 
 numpy                     1.19.2 
 
-python 					 3.6.13
+python 					          3.6.13
 
 keras                    	2.3.1
 
@@ -51,7 +51,7 @@ an example of 5000 steps pre-train and then take 1000 samples to test:
 ![1712763003131](https://github.com/crazy1212122/Handwritten-CNN-method-minist-dataset-detection/assets/109590350/004fc0d2-1159-4a8d-945d-8d92f6456669)
 
 
-**Some  detailed math process are put in the docx file**
+**Some  detailed math process are put in the pdf file**
 
 （I'll translate it into English later...)
 
