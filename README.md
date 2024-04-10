@@ -1,7 +1,6 @@
 # Handwritten-CNN-method-minist-dataset-detection
 
 
-# README
 
 **This is a pure code project of the CNN method to detect the Mnist dataset!**
 
